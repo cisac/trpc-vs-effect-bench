@@ -1,0 +1,8 @@
+node_modules
+results*.json
+docker-results
+prof
+.claude
+README.md
+Dockerfile
+.dockerignore
